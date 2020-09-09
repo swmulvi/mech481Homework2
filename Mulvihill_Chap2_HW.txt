@@ -1,0 +1,41 @@
+Sean Mulvihill - Mech 481 - Homework 2
+
+Module 1: Basic Building blocks 
+
+	This module covered some of the basic math and vector operations used in R
+
+- Learned how to use c() to make vectors
+- Learned how vector math works in R
+
+Module 2: Workspace and Files
+
+	This module covered how to use R to create and move around directories and files in your computer. 
+
+- Learned a variety of commands to change and add directories
+		-dir.create, dir.exists, file.path
+- Learned a variety of commands to change and add files
+		-file.create, file.copy, file.exists, file.access
+
+Module 3: Sequences of Numbers
+
+
+
+Module 4: Vectors
+
+
+Module 5: Missing Values
+
+
+Module 6: Subsetting Vectors
+
+
+Module 7: Matrices and Data Frames
+
+
+Module 8: Logic
+
+
+Module 9: Functions
+
+
+Module 12: Looking at Data
